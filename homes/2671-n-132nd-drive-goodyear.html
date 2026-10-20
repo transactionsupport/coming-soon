@@ -60,6 +60,18 @@ dd{margin:0;padding:2px 0 10px;border-bottom:1px solid var(--line)}
 .ctabox{text-align:center;border-top:4px solid var(--gold)}
 .ctabox .row{display:grid;gap:10px;grid-template-columns:1fr;max-width:520px;margin:14px auto 0}
 @media(min-width:560px){.ctabox .row{grid-template-columns:1fr 1fr}}
+.lead{max-width:560px;margin:16px auto 0;text-align:left;display:grid;gap:12px}
+.lead label{display:block;font-weight:bold;font-size:14px;margin-bottom:4px;color:var(--navy)}
+.lead input,.lead select,.lead textarea{width:100%;font:inherit;font-size:16px;padding:11px 12px;border:1px solid #c5cad6;border-radius:8px;background:#fff;color:var(--ink)}
+.lead input:focus,.lead select:focus,.lead textarea:focus{outline:3px solid rgba(184,145,43,.45);border-color:var(--gold)}
+.lead textarea{min-height:90px;resize:vertical}
+.lead .two{display:grid;gap:12px;grid-template-columns:1fr}
+@media(min-width:560px){.lead .two{grid-template-columns:1fr 1fr}}
+.lead button{font:inherit;font-size:16px;font-weight:bold;cursor:pointer;width:100%}
+.lead .req{color:#b42318}
+.lead .consent{font-size:12px;color:var(--muted);margin:0}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.or{margin:18px 0 0;color:var(--muted);font-size:14px}
 </style>
 </head>
 <body>
@@ -75,7 +87,7 @@ dd{margin:0;padding:2px 0 10px;border-bottom:1px solid var(--line)}
       <p class="price">$450,000</p>
       <div class="stats"><div><b>3</b><span>Beds</span></div><div><b>2</b><span>Baths</span></div><div><b>1,885</b><span>Sq ft</span></div><div><b>2.5</b><span>Garage</span></div></div>
       <p class="date">Expected on market: <b>November 6, 2026</b><br>Not yet available for showings.</p>
-      <a class="btn" href="mailto:homesales@teamminik.com?subject=Early%20access%3A%202671%20N%20132nd%20Drive%2C%20Goodyear%20%28MLS%20%237093118%29&body=Hi%20Team%20Minik%2C%20I%27d%20like%20early%20access%20to%202671%20N%20132nd%20Drive%2C%20Goodyear%20AZ%2085395%20%28MLS%20%237093118%29.%20Please%20contact%20me%20with%20showing%20details.%0A%0AName%3A%0APhone%3A%0A">Request early access</a>
+      <a class="btn" href="#early-access">Request early access</a>
       <a class="btn alt" href="tel:6237775810">Call or text 623-777-5810</a>
       <p class="small">MLS #7093118 · Listed by Michelle Minik &amp; Jennifer Watson, Team Minik – Realty of America</p>
     </div>
@@ -91,9 +103,30 @@ dd{margin:0;padding:2px 0 10px;border-bottom:1px solid var(--line)}
     <section class="block"><h2>Schools &amp; community</h2><dl><dt>Elementary</dt><dd>Palm Valley Elementary</dd><dt>Middle</dt><dd>Western Sky Middle School</dd><dt>High</dt><dd>Millennium High School</dd><dt>District</dt><dd>Agua Fria Union High School District</dd><dt>Community</dt><dd>Biking/walking paths, playground, golf</dd></dl>
       <p class="small">School assignments come from the MLS; confirm with the district. <a href="https://www.google.com/maps/search/?api=1&query=2671%20N%20132nd%20Drive%2C%20Goodyear%2C%20AZ%2085395" rel="noopener">View on Google Maps</a></p></section>
   </div>
-  <section class="block ctabox"><h2>Be first in line</h2>
-    <p>This home isn't on the open market yet. Contact Team Minik for early access and showing dates.</p>
-    <div class="row"><a class="btn" href="mailto:homesales@teamminik.com?subject=Early%20access%3A%202671%20N%20132nd%20Drive%2C%20Goodyear%20%28MLS%20%237093118%29&body=Hi%20Team%20Minik%2C%20I%27d%20like%20early%20access%20to%202671%20N%20132nd%20Drive%2C%20Goodyear%20AZ%2085395%20%28MLS%20%237093118%29.%20Please%20contact%20me%20with%20showing%20details.%0A%0AName%3A%0APhone%3A%0A">Email us</a><a class="btn alt" href="tel:6237775810">623-777-5810</a></div>
+  <section class="block ctabox" id="early-access"><h2>Request early access</h2>
+    <p>This home isn't on the open market yet. Send us your details and Team Minik will reach out with early access and showing dates.</p>
+    <form class="lead" action="https://formsubmit.co/homesales@teamminik.com" method="POST">
+      <input type="hidden" name="_subject" value="Early access request: 2671 N 132nd Drive, Goodyear, AZ 85395 (MLS #7093118)">
+      <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_captcha" value="false">
+      <input type="hidden" name="_next" value="https://transactionsupport.github.io/coming-soon/thanks.html">
+      <input type="hidden" name="Home" value="2671 N 132nd Drive, Goodyear, AZ 85395">
+      <input type="hidden" name="MLS #" value="7093118">
+      <input type="hidden" name="Listed at" value="$450,000">
+      <input type="hidden" name="Page" value="https://transactionsupport.github.io/coming-soon/homes/2671-n-132nd-drive-goodyear.html">
+      <div class="hp" aria-hidden="true"><label>Leave this empty <input type="text" name="_honey" tabindex="-1" autocomplete="off"></label></div>
+      <div><label for="name-7093118">Full name <span class="req">*</span></label><input id="name-7093118" name="Name" autocomplete="name" required></div>
+      <div class="two">
+        <div><label for="phone-7093118">Phone <span class="req">*</span></label><input id="phone-7093118" name="Phone" type="tel" autocomplete="tel" required></div>
+        <div><label for="email-7093118">Email <span class="req">*</span></label><input id="email-7093118" name="email" type="email" autocomplete="email" required></div>
+      </div>
+      <div><label for="agent-7093118">Are you working with an agent?</label><select id="agent-7093118" name="Working with an agent"><option value="No">No</option><option value="Yes">Yes</option></select></div>
+      <div><label for="msg-7093118">Message (optional)</label><textarea id="msg-7093118" name="Message" placeholder="Best times to reach you, questions about the home…"></textarea></div>
+      <p class="consent">By submitting, you agree that Team Minik – Realty of America may contact you by phone, text or email about this home.</p>
+      <button class="btn" type="submit">Request early access</button>
+    </form>
+    <p class="or">Prefer to reach us directly?</p>
+    <div class="row"><a class="btn alt" href="mailto:homesales@teamminik.com?subject=Early%20access%3A%202671%20N%20132nd%20Drive%2C%20Goodyear%20%28MLS%20%237093118%29&body=Hi%20Team%20Minik%2C%20I%27d%20like%20early%20access%20to%202671%20N%20132nd%20Drive%2C%20Goodyear%20AZ%2085395%20%28MLS%20%237093118%29.%20Please%20contact%20me%20with%20showing%20details.%0A%0AName%3A%0APhone%3A%0A">Email us</a><a class="btn alt" href="tel:6237775810">Call or text 623-777-5810</a></div>
   </section>
 </main>
 <footer>Team Minik · Realty of America LLC · Equal Housing Opportunity<br>
