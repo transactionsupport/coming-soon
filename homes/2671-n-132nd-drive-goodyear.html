@@ -72,6 +72,7 @@ dd{margin:0;padding:2px 0 10px;border-bottom:1px solid var(--line)}
 .lead .consent{font-size:12px;color:var(--muted);margin:0}
 .hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
 .or{margin:18px 0 0;color:var(--muted);font-size:14px}
+.in-frame #early-access,.in-frame a[href="#early-access"]{display:none!important}
 </style>
 </head>
 <body>
@@ -131,5 +132,6 @@ dd{margin:0;padding:2px 0 10px;border-bottom:1px solid var(--line)}
 </main>
 <footer>Team Minik · Realty of America LLC · Equal Housing Opportunity<br>
 <span class="disc">Listing information is from ARMLS and is deemed reliable but not guaranteed. Verify all details before relying on them.</span></footer>
+<script>(function(){if(window.self===window.top)return;document.documentElement.classList.add('in-frame');document.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';if(h==='../'){a.href='https://www.findallphoenixareahomes.com/info/coming-soon';a.target='_top';}else if(/^https?:/.test(h)){a.target='_blank';a.rel='noopener';}});})();</script>
 </body>
 </html>
