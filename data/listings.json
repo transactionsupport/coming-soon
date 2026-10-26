@@ -1,67 +1,6 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-26",
   "listings": [
-    {
-      "mls": "7089673",
-      "slug": "9687-e-skinner-drive-scottsdale",
-      "address": "9687 E Skinner Drive",
-      "city": "Scottsdale",
-      "zip": "85262",
-      "price": 1150000,
-      "beds": 4,
-      "baths": 3,
-      "baths_detail": "2 full, 1 half",
-      "sqft": 2964,
-      "lot_sqft": "10,472",
-      "garage": "3",
-      "year_built": 1996,
-      "subdivision": "Parcel D1 at Troon North",
-      "area": "Troon North",
-      "on_market": "2026-10-26",
-      "agents": [
-        "Michelle Minik"
-      ],
-      "photo": "20261005213854307112000000",
-      "remarks": "Check out this beautiful 4 bed, 3 bath property now for sale in Troon North! Featuring a low-care desert landscape and 3 garage spaces, it's sure to be the one for you! Inside you will find formal dining & living areas w/a wood-burning fireplace to keep you warm during the cold winter months. Prepare delicious meals in this fabulous kitchen, offering ample cabinetry, a pantry, granite counters, built-in appliances, and a prep island. Don't forget about the cozy den, ideal for an office or reading nook. The primary bedroom showcases direct outdoor access, a walk-in closet, and a full ensuite w/dual sinks. Lastly, the wonderful backyard includes a covered patio, artificial turf, and a sparkling blue pool! Don't wait any longer, act now!",
-      "highlights": [
-        "Private pool and heated spa",
-        "3-car garage",
-        "Wood-burning fireplace",
-        "Den / office",
-        "Single level, no interior steps",
-        "Vaulted ceilings and skylights"
-      ],
-      "features": {
-        "Kitchen": "Granite counters, kitchen island, pantry, multiple ovens, electric cooktop, dishwasher",
-        "Interior": "Skylights, vaulted ceilings, 9+ ft flat ceilings, fire sprinkler system, owned water softener",
-        "Flooring": "Carpet, tile",
-        "Dining": "Formal dining, eat-in kitchen, breakfast room",
-        "Exterior": "Covered patio, rain gutters, storage",
-        "Pool & spa": "Private outdoor pool; private heated spa",
-        "Lot": "10,472 sq ft (0.24 acres)",
-        "HOA": "Yes"
-      },
-      "community": "Biking/walking paths, playground, tennis courts, golf, pickleball",
-      "schools": [
-        [
-          "Elementary",
-          "Desert Sun Academy"
-        ],
-        [
-          "Middle",
-          "Sonoran Trails Middle School"
-        ],
-        [
-          "High",
-          "Cactus Shadows High School"
-        ],
-        [
-          "District",
-          "Cave Creek Unified District"
-        ]
-      ],
-      "cinc_slug": "9687-e-skinner-drive-coming-soon"
-    },
     {
       "mls": "7093118",
       "slug": "2671-n-132nd-drive-goodyear",
@@ -121,65 +60,6 @@
         ]
       ],
       "cinc_slug": "2671-n-132nd-drive-coming-soon"
-    },
-    {
-      "mls": "7095197",
-      "slug": "16543-w-hayley-way-goodyear",
-      "address": "16543 W Hayley Way",
-      "city": "Goodyear",
-      "zip": "85338",
-      "price": 421999,
-      "beds": 3,
-      "baths": 2,
-      "baths_detail": "2 full",
-      "sqft": 1314,
-      "lot_sqft": "5,126",
-      "garage": "2",
-      "year_built": 2021,
-      "subdivision": "Estrella Parcel 11.F2",
-      "area": "Estrella Mountain Ranch",
-      "on_market": "2026-11-15",
-      "agents": [
-        "Michelle Minik",
-        "April Osorio"
-      ],
-      "photo": "20261016234337721841000000",
-      "remarks": "Fall in love with this charming home in the Estrella Mountain Ranch Community! Featuring 3 beds, 2 baths, a low-care landscape, and a 2-car garage. Inside, you'll find abundant natural light, tile floors, and an inviting living area. The kitchen boasts built-in appliances, granite countertops, and a center island. The sizable primary bedroom includes a private bath for added convenience. The backyard retreat is complemented by a covered patio, a gazebo, scenic mountain views, and no rear neighbors, creating an ideal setting for relaxing and entertaining. Enjoy the community's resort-style pools, recreational facilities, scenic lakes, and miles of hiking & biking trails! Located near Estrella Parkway, I-10, shopping, dining, golf courses, and Estrella Mountain Regional Park. Move-in ready!",
-      "highlights": [
-        "Built in 2021",
-        "Mountain views, no rear neighbors",
-        "Granite counters and kitchen island",
-        "Covered patio with gazebo",
-        "Resort-style community amenities"
-      ],
-      "features": {
-        "Kitchen": "Granite counters, kitchen island, pantry, gas oven and cooktop, built-in microwave, reverse osmosis",
-        "Interior": "Single level, owned water softener, soft water loop, water purifier",
-        "Flooring": "Tile",
-        "Exterior": "Covered patio, gazebo, low-care landscaping",
-        "Lot": "5,126 sq ft",
-        "HOA": "Yes"
-      },
-      "community": "Lakes, clubhouse, heated community spa, fitness center, media room, tennis courts, playground, biking/walking paths",
-      "schools": [
-        [
-          "Elementary",
-          "Estrella Mountain Elementary School"
-        ],
-        [
-          "Middle",
-          "Estrella Mountain Elementary School"
-        ],
-        [
-          "High",
-          "Estrella Foothills High School"
-        ],
-        [
-          "District",
-          "Buckeye Union High School District"
-        ]
-      ],
-      "cinc_slug": "16543-w-hayley-way-coming-soon"
     }
   ]
 }
