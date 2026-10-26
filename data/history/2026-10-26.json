@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-26",
+  "listings": [
+    {
+      "mls": "7093118",
+      "slug": "2671-n-132nd-drive-goodyear",
+      "address": "2671 N 132nd Drive",
+      "city": "Goodyear",
+      "zip": "85395",
+      "price": 450000,
+      "beds": 3,
+      "baths": 2,
+      "baths_detail": "2 full",
+      "sqft": 1885,
+      "lot_sqft": "7,800",
+      "garage": "2.5",
+      "year_built": 1999,
+      "subdivision": "Palm Valley",
+      "area": "Palm Valley",
+      "on_market": "2026-11-06",
+      "agents": [
+        "Michelle Minik",
+        "Jennifer Watson"
+      ],
+      "photo": "20261013160622054366000000",
+      "remarks": "Looking for a new home? This beautiful residence with a POOL in the desirable Palm Valley is the one! Offering 3 beds + den, 2 baths, mature landscape, and a 2.5-car garage w/cabinetry. Discover inviting living spaces, perfect for everyday living & entertaining! The eat-in kitchen boasts built-in appliances w/gas range, a pantry, ample cabinetry, and an island w/breakfast bar. The versatile den is perfect for an office! The large primary bedroom has a walk-in closet and an ensuite with dual sinks & separate tub/shower. When it's time to unwind, the backyard oasis awaits you with a covered patio, lush lawn, and a refreshing pool for year-round enjoyment. Don't miss this opportunity!",
+      "highlights": [
+        "Private pool",
+        "3 bedrooms + den",
+        "2.5-car garage with cabinets",
+        "Gas range and kitchen island",
+        "Covered patio and lawn"
+      ],
+      "features": {
+        "Kitchen": "Kitchen island with breakfast bar, pantry, gas range, built-in microwave, dishwasher, refrigerator",
+        "Flooring": "Vinyl",
+        "Primary suite": "Walk-in closet, dual sinks, separate tub and shower",
+        "Exterior": "Covered patio, mature landscaping",
+        "Pool": "Private play pool",
+        "Lot": "7,800 sq ft",
+        "HOA": "Yes"
+      },
+      "community": "Biking/walking paths, playground, golf",
+      "schools": [
+        [
+          "Elementary",
+          "Palm Valley Elementary"
+        ],
+        [
+          "Middle",
+          "Western Sky Middle School"
+        ],
+        [
+          "High",
+          "Millennium High School"
+        ],
+        [
+          "District",
+          "Agua Fria Union High School District"
+        ]
+      ],
+      "cinc_slug": "2671-n-132nd-drive-coming-soon"
+    }
+  ]
+}
