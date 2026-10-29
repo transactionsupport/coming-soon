@@ -1,0 +1,129 @@
+{
+  "updated": "2026-10-29",
+  "listings": [
+    {
+      "mls": "7093118",
+      "slug": "2671-n-132nd-drive-goodyear",
+      "address": "2671 N 132nd Drive",
+      "city": "Goodyear",
+      "zip": "85395",
+      "price": 450000,
+      "beds": 3,
+      "baths": 2,
+      "baths_detail": "2 full",
+      "sqft": 1885,
+      "lot_sqft": "7,800",
+      "garage": "2.5",
+      "year_built": 1999,
+      "subdivision": "Palm Valley",
+      "area": "Palm Valley",
+      "on_market": "2026-11-06",
+      "agents": [
+        "Michelle Minik",
+        "Jennifer Watson"
+      ],
+      "photo": "20261013160622054366000000",
+      "remarks": "Looking for a new home? This beautiful residence with a POOL in the desirable Palm Valley is the one! Offering 3 beds + den, 2 baths, mature landscape, and a 2.5-car garage w/cabinetry. Discover inviting living spaces, perfect for everyday living & entertaining! The eat-in kitchen boasts built-in appliances w/gas range, a pantry, ample cabinetry, and an island w/breakfast bar. The versatile den is perfect for an office! The large primary bedroom has a walk-in closet and an ensuite with dual sinks & separate tub/shower. When it's time to unwind, the backyard oasis awaits you with a covered patio, lush lawn, and a refreshing pool for year-round enjoyment. Don't miss this opportunity!",
+      "highlights": [
+        "Private pool",
+        "3 bedrooms + den",
+        "2.5-car garage with cabinets",
+        "Gas range and kitchen island",
+        "Covered patio and lawn"
+      ],
+      "features": {
+        "Kitchen": "Kitchen island with breakfast bar, pantry, gas range, built-in microwave, dishwasher, refrigerator",
+        "Flooring": "Vinyl",
+        "Primary suite": "Walk-in closet, dual sinks, separate tub and shower",
+        "Exterior": "Covered patio, mature landscaping",
+        "Pool": "Private play pool",
+        "Lot": "7,800 sq ft",
+        "HOA": "Yes"
+      },
+      "community": "Biking/walking paths, playground, golf",
+      "schools": [
+        [
+          "Elementary",
+          "Palm Valley Elementary"
+        ],
+        [
+          "Middle",
+          "Western Sky Middle School"
+        ],
+        [
+          "High",
+          "Millennium High School"
+        ],
+        [
+          "District",
+          "Agua Fria Union High School District"
+        ]
+      ],
+      "cinc_slug": "2671-n-132nd-drive-coming-soon"
+    },
+    {
+      "mls": "7099438",
+      "slug": "23808-n-162nd-lane-surprise",
+      "address": "23808 N 162nd Lane",
+      "city": "Surprise",
+      "zip": "85387",
+      "price": 444999,
+      "beds": 3,
+      "baths": 2.5,
+      "baths_detail": "2 full, 1 half",
+      "sqft": 1972,
+      "lot_sqft": "3,955",
+      "garage": "2",
+      "year_built": 2021,
+      "subdivision": "Fulton Homes Escalante Parcel 5",
+      "area": "Escalante",
+      "on_market": "2026-11-27",
+      "agents": [
+        "Michelle Minik",
+        "April Osorio"
+      ],
+      "photo": "20261028182606245854000000",
+      "remarks": "Looking for a new home? This beautiful two-story residence in Esclante is the one! Providing 3 beds, 2 baths + powder room, and a 2-car garage. The interior features dual-pane windows, 9ft ceilings, and carpet & tile flooring in all the right places. Enjoy the seamlessly flowing open-concept floor plan, perfect for everyday living & entertaining! The impressive kitchen boasts built-in appliances, granite counters, a walk-in pantry, and an island w/breakfast bar. All bedrooms are upstairs, along with a cozy loft! The primary bedroom has an ensuite with dual sinks & a walk-in closet. Out back, you have a covered patio to relax or enjoy a BBQ. Close proximity to the community pool, picnic area, tot lots, basketball, and pickleball courts. Don't miss this opportunity!",
+      "highlights": [
+        "Two-story with upstairs loft",
+        "Granite counters and kitchen island",
+        "Walk-in pantry",
+        "Tankless water heater",
+        "Community pool and pickleball"
+      ],
+      "features": {
+        "Kitchen": "Kitchen island with breakfast bar, walk-in pantry, granite counters, electric oven and cooktop, built-in microwave, dishwasher, disposal",
+        "Flooring": "Carpet, tile",
+        "Primary suite": "Upstairs, walk-in closet, dual sinks",
+        "Interior": "9 ft+ ceilings, loft, upstairs laundry (washer and dryer included)",
+        "Windows": "ENERGY STAR dual-pane, low-E",
+        "Cooling & heating": "Central air, ceiling fans, electric heat",
+        "Water heater": "Tankless",
+        "Exterior": "Covered patio, synthetic grass backyard, block fence",
+        "Lot": "3,955 sq ft",
+        "HOA": "Yes ($447 quarterly)"
+      },
+      "community": "Community pool, biking/walking paths, playground, pickleball",
+      "schools": [
+        [
+          "Elementary",
+          "Asante Preparatory Academy"
+        ],
+        [
+          "Middle",
+          "Asante Preparatory Academy"
+        ],
+        [
+          "High",
+          "Willow Canyon High School"
+        ],
+        [
+          "District",
+          "Dysart Unified District"
+        ]
+      ],
+      "cinc_slug": "23808-n-162nd-lane-coming-soon",
+      "cinc_ok": false
+    }
+  ]
+}
