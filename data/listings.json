@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-04",
   "listings": [
     {
       "mls": "7093118",
@@ -60,6 +60,67 @@
         ]
       ],
       "cinc_slug": "2671-n-132nd-drive-coming-soon"
+    },
+    {
+      "mls": "7102109",
+      "slug": "2743-n-144th-drive-goodyear",
+      "address": "2743 N 144th Drive",
+      "city": "Goodyear",
+      "zip": "85395",
+      "price": 634000,
+      "beds": 4,
+      "baths": 3,
+      "baths_detail": "2 full, 1 half",
+      "sqft": 2875,
+      "lot_sqft": "10,859",
+      "garage": "3",
+      "year_built": 2005,
+      "subdivision": "Palm Valley Phase 2 Parcel 1",
+      "area": "Palm Valley",
+      "on_market": "2026-11-27",
+      "agents": [
+        "Michelle Minik",
+        "Gregory Mendoza"
+      ],
+      "photo": "20261103103647979394000000",
+      "remarks": "Discover this beautiful single-story pool home in the desirable Palm Valley community of Goodyear, AZ! Offering 2,875 sq. ft., 4 bedrooms, 3 bathrooms, a den, and a 3-car garage! Enjoy a spacious floor plan, stylish shutters, and a beautifully maintained backyard with a sparkling private pool and low-maintenance artificial turf. BIG UPGRADES! Two NEW AC units and a NEWLY REPLACED ROOF with a 10-year warranty offer added peace of mind! Just 5 minutes from Goodyear Civic Square, featuring shopping, dining, and entertainment. Located in the sought-after Litchfield Elementary School District and Millennium High School attendance area. Why settle for less? Get the space, upgrades, pool, and location you've been searching for!",
+      "highlights": [
+        "Private pool",
+        "Single story, 4 bedrooms + den",
+        "3-car garage",
+        "New roof (2026) and AC units",
+        "Artificial turf backyard"
+      ],
+      "features": {
+        "Kitchen": "Kitchen island, breakfast bar, gas range, built-in microwave, dishwasher, disposal",
+        "Dining": "Formal dining and eat-in kitchen",
+        "Primary suite": "Split floor plan, walk-in closet, double vanity, separate tub and shower",
+        "Updates": "Roof replaced 2026; flooring, wiring, plumbing and heating/cooling updated 2025",
+        "Exterior": "Block fence, desert front landscaping, synthetic grass backyard",
+        "Pool": "Private fenced play pool",
+        "Lot": "10,859 sq ft",
+        "HOA": "Yes (Palm Valley), $200 quarterly"
+      },
+      "community": "Palm Valley",
+      "schools": [
+        [
+          "Elementary",
+          "Palm Valley Elementary"
+        ],
+        [
+          "Middle",
+          "Western Sky Middle School"
+        ],
+        [
+          "High",
+          "Millennium High School"
+        ],
+        [
+          "District",
+          "Litchfield Elementary District / Agua Fria Union High School District"
+        ]
+      ],
+      "cinc_slug": "2743-n-144th-drive-coming-soon"
     }
   ]
 }
