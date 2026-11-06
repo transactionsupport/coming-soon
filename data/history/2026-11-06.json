@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-06",
+  "count": 0,
+  "listings": [],
+  "added": [],
+  "removed": [
+    {"mls": "7093118", "address": "2671 N 132nd Drive", "city": "Goodyear", "slug": "2671-n-132nd-drive-goodyear", "cinc_slug": "2671-n-132nd-drive-coming-soon", "new_status": "Active"},
+    {"mls": "7102109", "address": "2743 N 144th Drive", "city": "Goodyear", "slug": "2743-n-144th-drive-goodyear", "cinc_slug": "2743-n-144th-drive-coming-soon", "new_status": "Active"}
+  ],
+  "changed": []
+}
