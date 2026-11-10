@@ -1,0 +1,61 @@
+{
+  "updated": "2026-11-10",
+  "listings": [
+    {
+      "mls": "7104840",
+      "slug": "12202-n-lindsay-drive-sun-city",
+      "address": "12202 N Lindsay Drive",
+      "city": "Sun City",
+      "zip": "85351",
+      "price": 269999,
+      "beds": 2,
+      "baths": 2,
+      "baths_detail": "2 full",
+      "sqft": 1377,
+      "lot_sqft": "9,330",
+      "garage": "2",
+      "year_built": 1960,
+      "subdivision": "Newlife 1 Lots 352-555 & Tr D",
+      "area": "Sun City",
+      "on_market": "2026-12-10",
+      "agents": [
+        "Michelle Minik",
+        "April Osorio"
+      ],
+      "photo": "20261110182814258809000000",
+      "remarks": "This adorable single-story home is the one for you! Nestled in a desirable golf-course corner lot, this gem offers 2 bedrooms, 2 bathrooms, and a 2-car garage. Inside, you'll discover sizable living areas perfect for entertaining and relaxation, including a formal dining room. The kitchen comes equipped with ample counters, plenty of cabinet space, essential appliances, and a pantry. The main bedroom hosts a walk-in closet for easy organization and a full bathroom for added comfort. The backyard includes a covered patio ideal for enjoying a refreshing drink. Hurry up and check it out!",
+      "highlights": [
+        "Single story on a golf-course corner lot",
+        "2-car garage with cabinets and golf cart garage",
+        "Formal dining room",
+        "Covered patio",
+        "Sun City amenities: pool, rec center, golf"
+      ],
+      "features": {
+        "Kitchen": "Gas oven and range, dishwasher, built-in microwave, refrigerator, pantry",
+        "Dining": "Formal dining, dining in family room",
+        "Primary suite": "Walk-in closet, full bathroom",
+        "Flooring": "Carpet, tile, wood",
+        "Laundry": "Inside; washer and dryer included",
+        "Exterior": "Covered patio, block construction, composition roof",
+        "Cooling": "Central air, evaporative cooling, ceiling fans",
+        "View": "Mountain views",
+        "Lot": "9,330 sq ft",
+        "HOA": "Yes (Sun City), $25 annually; rec center fee $680 annually",
+        "Special conditions": "Short sale; age-restricted community (see MLS)"
+      },
+      "community": "Sun City (age-restricted): heated community pool and spa, clubhouse/rec room, tennis, golf, workout facility, biking/walking paths",
+      "schools": [
+        [
+          "Elementary",
+          "Adult (age-restricted community)"
+        ],
+        [
+          "High",
+          "Adult (age-restricted community)"
+        ]
+      ],
+      "cinc_slug": "12202-n-lindsay-drive-coming-soon"
+    }
+  ]
+}
