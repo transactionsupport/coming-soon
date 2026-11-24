@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-24",
   "listings": [
     {
       "mls": "7104840",
@@ -56,67 +56,6 @@
         ]
       ],
       "cinc_slug": "12202-n-lindsay-drive-coming-soon"
-    },
-    {
-      "mls": "7108239",
-      "slug": "1869-n-140th-drive-goodyear",
-      "address": "1869 N 140th Drive",
-      "city": "Goodyear",
-      "zip": "85395",
-      "price": 559000,
-      "beds": 3,
-      "baths": 3,
-      "baths_detail": "2 full, 1 half",
-      "sqft": 2524,
-      "lot_sqft": "3,997",
-      "garage": "2",
-      "year_built": 2021,
-      "subdivision": "Vistas at Palm Valley",
-      "area": "Goodyear",
-      "on_market": "2026-12-19",
-      "agents": [
-        "Michelle Minik",
-        "Nicholas Olejniczak"
-      ],
-      "photo": "20261119205532432522000000",
-      "remarks": "FULLY FURNISHED DESIGNER SHOWSTOPPER--JUST BRING YOUR TOOTHBRUSH! This stunning 3-bedroom, 2.5-bath home offers luxury, style, and effortless living. Professionally furnished by an interior designer and extensively upgraded throughout, this home impresses from the moment you arrive. A beautiful paver driveway and inviting covered front patio welcome you into an open-concept floor plan featuring soaring vaulted ceilings, designer lighting, upgraded flooring and carpeting, and gorgeous cabinetry extending to the ceiling. The main-level primary suite offers an oversized shower and separate soaking tub, while the spacious upstairs loft provides versatile additional living space. Dual-pane windows and a tankless water heater add modern convenience. Designed for entertaining, the stunning backyard features a covered patio with tile flooring that matches the interior, creating a seamless indoor-outdoor feel, along with two beautiful fire features. THE ULTIMATE BONUS? This is the only home with a private backyard gate offering direct access to the community pool area! Enjoy resort-style convenience just steps from your backyard. Beautifully furnished, thoughtfully upgraded, and move-in ready. Everything is done--all that's missing is you!",
-      "highlights": [
-        "Sold fully furnished by an interior designer",
-        "Main-level primary suite with soaking tub",
-        "Upstairs loft plus separate den/office",
-        "Private backyard gate to the community pool",
-        "Built 2021 by Meritage Homes"
-      ],
-      "features": {
-        "Home type": "Townhouse, two levels (Meritage Homes, Residence 3)",
-        "Kitchen": "Built-in gas oven, gas cooktop, quartz countertops, kitchen island, pantry, dishwasher, built-in microwave, refrigerator",
-        "Dining": "Eat-in kitchen, breakfast bar, dining in great room",
-        "Primary suite": "Downstairs; separate shower and tub, double vanity, private toilet room",
-        "Other rooms": "Loft; separate den/office",
-        "Interior": "Vaulted ceilings; furnished (see remarks)",
-        "Flooring": "Carpet, tile",
-        "Laundry": "Washer and dryer included",
-        "Exterior": "Covered patio, paver driveway, block fence, tile roof",
-        "Cooling & heating": "Central air, ceiling fans, programmable thermostat; forced-air heat; tankless gas water heater",
-        "Lot": "3,997 sq ft; synthetic grass back yard",
-        "HOA": "Yes: $150 monthly (Vistas at PV) plus $68 monthly (benefitted assessment)"
-      },
-      "community": "Gated community with a fenced community pool, children's playground and biking/walking paths",
-      "schools": [
-        [
-          "Elementary",
-          "Palm Valley Elementary (Litchfield Elementary District)"
-        ],
-        [
-          "Middle",
-          "Western Sky Middle School"
-        ],
-        [
-          "High",
-          "Millennium High School (Agua Fria Union HSD)"
-        ]
-      ],
-      "cinc_slug": "1869-n-140th-drive-coming-soon"
     },
     {
       "mls": "7108244",
