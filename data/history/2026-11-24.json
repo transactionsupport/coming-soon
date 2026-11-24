@@ -1,0 +1,125 @@
+{
+  "updated": "2026-11-24",
+  "listings": [
+    {
+      "mls": "7104840",
+      "slug": "12202-n-lindsay-drive-sun-city",
+      "address": "12202 N Lindsay Drive",
+      "city": "Sun City",
+      "zip": "85351",
+      "price": 269999,
+      "beds": 2,
+      "baths": 2,
+      "baths_detail": "2 full",
+      "sqft": 1377,
+      "lot_sqft": "9,330",
+      "garage": "2",
+      "year_built": 1960,
+      "subdivision": "Newlife 1 Lots 352-555 & Tr D",
+      "area": "Sun City",
+      "on_market": "2026-12-10",
+      "agents": [
+        "Michelle Minik",
+        "April Osorio"
+      ],
+      "photo": "20261110182814258809000000",
+      "remarks": "This adorable single-story home is the one for you! Nestled in a desirable golf-course corner lot, this gem offers 2 bedrooms, 2 bathrooms, and a 2-car garage. Inside, you'll discover sizable living areas perfect for entertaining and relaxation, including a formal dining room. The kitchen comes equipped with ample counters, plenty of cabinet space, essential appliances, and a pantry. The main bedroom hosts a walk-in closet for easy organization and a full bathroom for added comfort. The backyard includes a covered patio ideal for enjoying a refreshing drink. Hurry up and check it out!",
+      "highlights": [
+        "Single story on a golf-course corner lot",
+        "2-car garage with cabinets and golf cart garage",
+        "Formal dining room",
+        "Covered patio",
+        "Sun City amenities: pool, rec center, golf"
+      ],
+      "features": {
+        "Kitchen": "Gas oven and range, dishwasher, built-in microwave, refrigerator, pantry",
+        "Dining": "Formal dining, dining in family room",
+        "Primary suite": "Walk-in closet, full bathroom",
+        "Flooring": "Carpet, tile, wood",
+        "Laundry": "Inside; washer and dryer included",
+        "Exterior": "Covered patio, block construction, composition roof",
+        "Cooling": "Central air, evaporative cooling, ceiling fans",
+        "View": "Mountain views",
+        "Lot": "9,330 sq ft",
+        "HOA": "Yes (Sun City), $25 annually; rec center fee $680 annually",
+        "Special conditions": "Short sale; age-restricted community (see MLS)"
+      },
+      "community": "Sun City (age-restricted): heated community pool and spa, clubhouse/rec room, tennis, golf, workout facility, biking/walking paths",
+      "schools": [
+        [
+          "Elementary",
+          "Adult (age-restricted community)"
+        ],
+        [
+          "High",
+          "Adult (age-restricted community)"
+        ]
+      ],
+      "cinc_slug": "12202-n-lindsay-drive-coming-soon"
+    },
+    {
+      "mls": "7108244",
+      "slug": "4655-w-gelding-drive-glendale",
+      "address": "4655 W Gelding Drive",
+      "city": "Glendale",
+      "zip": "85306",
+      "price": 629000,
+      "beds": 3,
+      "baths": 3,
+      "baths_detail": "3 full",
+      "sqft": 2760,
+      "lot_sqft": "21,045",
+      "garage": "2",
+      "year_built": 1976,
+      "subdivision": "Sunburst Farms 6",
+      "area": "Glendale",
+      "on_market": "2026-12-19",
+      "agents": [
+        "Michelle Minik",
+        "Nicholas Olejniczak"
+      ],
+      "photo": "20261119211318635675000000",
+      "remarks": "TWO PRIMARY SUITES WITH SEPARATE ENTRANCES, NEARLY HALF AN ACRE & NO HOA! This 4-bedroom, 3-bath home sits on a spacious corner lot offering privacy, versatility, and room to spread out. Ideal for multigenerational living or guests, the dual primary suites provide flexible living options. The tri-level, open-concept floor plan features classic wood flooring, a striking wraparound fireplace, French doors, and a charming entryway with brick flower shelving. The gourmet kitchen boasts granite countertops and a stone tile backsplash. Additional highlights include stone tile showers, a spacious laundry room, and a large wet bar perfect for entertaining or a game room. Outside, enjoy mature palm trees, an expansive backyard, and an oversized covered patio.",
+      "highlights": [
+        "Two primary suites, one with a separate entrance",
+        "Nearly half an acre on a corner lot",
+        "No HOA; horse privileges",
+        "RV access, circular drive and detached workshop",
+        "Solar panels and tankless water heater"
+      ],
+      "features": {
+        "Home type": "Single-family, ranch style, single story",
+        "Kitchen": "Granite counters, kitchen island, electric range and oven, dishwasher, disposal, refrigerator",
+        "Dining": "Breakfast nook, dining in living/great room",
+        "Bedrooms": "2 primary bedrooms; guest quarters with separate entrance",
+        "Other rooms": "Family room, bonus/game room, den/office, separate workshop",
+        "Interior": "Two-way fireplace, wet bar, skylights",
+        "Flooring": "Carpet, tile (partially updated 2018)",
+        "Laundry": "Inside; washer and dryer included",
+        "Exterior": "Covered patio, storage shed, workshop, block fence",
+        "Parking": "2-car detached garage, 2 carport spaces, circular driveway, RV access/parking",
+        "Cooling & heating": "Central air (updated 2011), ceiling fans, programmable thermostat; forced-air heat; tankless water heater",
+        "Energy": "Solar panels (lease; see MLS)",
+        "Roof": "Composition (replaced 2011)",
+        "Lot": "21,045 sq ft (0.48 acre) corner lot; grass back yard",
+        "HOA": "None"
+      },
+      "community": "Sunburst Farms (no HOA, horse property allowed)",
+      "schools": [
+        [
+          "Elementary",
+          "Sunburst School (Washington Elementary District)"
+        ],
+        [
+          "Middle",
+          "Desert Foothills Middle School"
+        ],
+        [
+          "High",
+          "Greenway High School (Glendale Union HSD)"
+        ]
+      ],
+      "cinc_slug": "4655-w-gelding-drive-coming-soon"
+    }
+  ]
+}
